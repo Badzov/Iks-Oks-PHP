@@ -10,7 +10,7 @@
 		text-align: center;
 	}
 	#ip{
-		border-radius: 47px;
+		border-radius: 50px;
     	border: 2px solid black;
     	padding: 50px; 
     	width: 200px;
